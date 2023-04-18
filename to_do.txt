@@ -1,0 +1,9 @@
+Features: try using (extrapolated pos of ball - extrapolated pos of player), instead
+of ball velocity
+
+Make a README.md
+
+Visualization: pick actions, then show weight_i * feature_i as a heat map over the
+likely values of each pair of features
+  - if it's possible, show positions as they would be on the real screen, not on the
+    projection which straightens out the sidelines
